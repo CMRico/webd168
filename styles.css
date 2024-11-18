@@ -1,0 +1,19 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(27, 27, 47);
+  display: grid;
+  grid-column: 100%;
+  text-align: center;
+}
+h2 {
+  padding-left: 42%;
+}
+a {
+  display: grid;
+  text-align: center;
+}
+img {
+  width: 300px;
+  padding: 3%;
+  padding-left: 40%;
+}
